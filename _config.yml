@@ -16,17 +16,19 @@
 title: Eric Van Berg
 #email: emsail@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The personal and professional musings of Eric Van Berg.
+  The personal and professional musings of Eric Van Berg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ericvanberg.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  evanberg
+linkedin_username: ericvb
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
