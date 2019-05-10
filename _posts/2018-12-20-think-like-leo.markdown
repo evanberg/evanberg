@@ -3,7 +3,7 @@ layout: post
 title:  "Think Like Davinci"
 date:   2018-12-20 18:07:27 -0600
 categories: personal
-published: true
+published: false
 ---
 ## Stay Curious ##
 ## Remain Fit ##
