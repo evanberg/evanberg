@@ -16,7 +16,7 @@
 title: Eric Van Berg
 #email: emsail@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The personal and professional thoughts and impressions
+  These are just, like, my opinions, man.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ericvanberg.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
